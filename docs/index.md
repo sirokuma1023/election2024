@@ -31,11 +31,11 @@
 現在のマニフェストはこちらから確認できます。
 
 1. [若者に選ばれるまち/多様性あふれるまち](/election2024/manifest/diversity/)
-2. [公民連携による教育/子どもを育てたいまちへ](/docs/manifest/education.md)
-3. [関市を支える経済の発展](/docs/manifest/economy.md)
-4. [将来も住み続けたい福祉医療防災の充実](/docs/manifest/care.md)
-5. [新規参入とIT技術を活用したバスの利便性向上](/docs/manifest/traffic.md)
-6. [その他政策や頂いたご質問に対するご回答](/docs/manifest/others.md)
+2. [公民連携による教育/子どもを育てたいまちへ](/election2024/manifest/education.md)
+3. [関市を支える経済の発展](/election2024/manifest/economy.md)
+4. [将来も住み続けたい福祉医療防災の充実](/election2024/manifest/care.md)
+5. [新規参入とIT技術を活用したバスの利便性向上](/election2024/manifest/traffic.md)
+6. [その他政策や頂いたご質問に対するご回答](/election2024/manifest/others.md)
 
 ### 初めての方へ
 
