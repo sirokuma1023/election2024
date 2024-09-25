@@ -9,7 +9,7 @@
 
 ### Issuesにアクセス
 
-[https://github.com/takahiroanno2024/election2024/issues](https://github.com/takahiroanno2024/election2024/issues) にアクセスします。  
+[https://github.com/sirokuma1023/election2024/issues](https://github.com/sirokuma1023/election2024/issues) にアクセスします。  
 
 ### Issue作成画面
 

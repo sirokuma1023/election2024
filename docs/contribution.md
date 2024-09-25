@@ -51,7 +51,7 @@ GitHubとは、ソフトウェアエンジニア・ITエンジニアがみんな
     - 建設的な議論を推進するため、OpenAI APIを使用した自動モデレーターが巡回しています。
     - 禁止行為に対してはアクセス禁止などの制裁が科されることがあります。ご了承ください。
 
-[GitHub issues](https://github.com/takahiroanno/election2024/issues)
+[GitHub issues](https://github.com/sirokuma1023/election2024/issues)
 
 ※議論に参加するためにはGitHubアカウントが必要です。無料で作成することができます。
 
@@ -66,7 +66,7 @@ GitHubとは、ソフトウェアエンジニア・ITエンジニアがみんな
 - 政策以外のコード部分に対する修正も受け付けています。
 - 変更提案が受け入れられると、自動で本ページにも反映されます。
 
-[GitHub Pull Requests](https://github.com/takahiroanno/election2024/pulls)
+[GitHub Pull Requests](https://github.com/sirokuma1023/election2024/pulls)
 
 ### 政策オープンソースを広める
 
