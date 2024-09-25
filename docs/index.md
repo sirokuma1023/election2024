@@ -3,7 +3,7 @@
 
 ## 概要
 
-[北村たかゆき](https://takahiroanno.com)の政策オープンソースです。
+[北村たかゆき](https://kitamuratakayuki.com/)の政策オープンソースです。
 マニフェストに対して、誰でも自由に変更提案をすることができます。
 
 <!-- ## ご注意（2024/7/5）
@@ -19,9 +19,9 @@
 
 北村たかゆき についての最新情報は下記よりご確認ください。
 
-- [公式サイト](https://takahiroanno.com)
+- [公式サイト](https://kitamuratakayuki.com/)
 - 公式Xアカウント
-    - [本人](https://x.com/takahiroanno)
+    - [本人](https://x.com/sirokuma1023)
     - [事務所](https://x.com/annotakahiro24)
 - [公式YouTube](https://www.youtube.com/@shumicode)
 - [公式Instagram](https://www.instagram.com/annotakahiro2024)
@@ -55,7 +55,7 @@
 北村たかゆきのマニフェストについて、直した方がいいところや追加した方がいいと思うことについて議論します。
 
 - イシューを立てる方はこちら
-    - [GitHub issues](https://github.com/takahiroanno/election2024/issues)
+    - [GitHub issues](https://github.com/sirokuma1023/election2024/issues)
 - 新しいイシューの立て方は[こちら](manual_issue.md#new_issue)
 - イシューへのコメントの仕方は[こちら](manual_issue.md#comment_issue)
 
@@ -64,7 +64,7 @@
 北村たかゆきのマニフェストに対して、具体的に変更提案します。
 
 - 変更提案はこちら
-    - [GitHub](https://github.com/takahiroanno/election2024)
+    - [GitHub](https://github.com/sirokuma1023/election2024)
 - 変更提案の仕方は[こちら](manual_pull_request.md)
 
 ### 変更提案の反映について
@@ -101,6 +101,6 @@
 - 本リポジトリは、クリエイティブ・コモンズ・ライセンスの[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)の下で公開されています。
     - 著作権者（安野たかひろ）のクレジットを表示すること、およびライセンスへのリンクを提供することを条件に、営利・非営利での複製・再配布・翻案・改変が可能です。
     - 詳しくは[クリエイティブ・コモンズ・ライセンスHP](https://creativecommons.jp/licenses/)をご覧ください。
-    - リーガルコードは[こちら](https://github.com/takahiroanno/election2024/blob/main/LICENSE)です。
+    - リーガルコードは[こちら](https://github.com/sirokuma1023/election2024/blob/main/LICENSE)です。
 - 貢献者は、クリエイティブ・コモンズ・ライセンスのCC BY 4.0のライセンス下において、本リポジトリを第三者が利用することに同意したものとみなします。
 - 貢献者の著作権者表記につきましては、当リポジトリへのコミットログ等をもって代えさせていただきます。

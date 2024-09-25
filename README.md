@@ -6,7 +6,7 @@
 
 本リポジトリの内容は以下のウェブサイトでもご覧いただけます：
 
-北村たかゆき：政策リポジトリ](https://manifest.takahiroanno.com/)
+北村たかゆき：政策リポジトリ](https://manifest.sirokuma1023.com/)
 
 <!-- ## ご注意（2024/7/5）
 
@@ -18,7 +18,7 @@
 
 - 北村たかゆき：マニフェスト](北村たかゆきマニフェスト)
     - [はじめに](#はじめに)
-    - [ご注意（2024/7/5）](#ご注意202475)
+ <!--    - [ご注意（2024/7/5）](#ご注意202475) -->
     - [目次](#目次)
     - [概要](#概要)
         - 北村たかゆきについて](北村たかゆきについて)
@@ -43,9 +43,9 @@
 北村たかゆき は、関市議として本マニフェストを作成しています。
 北村たかゆき についての最新情報は下記よりご確認ください。
 
-- [公式サイト](https://takahiroanno.com)
+- [公式サイト](https://kitamuratakayuki.com/)
 - 公式Xアカウント
-    - [本人](https://x.com/takahiroanno)
+    - [本人](https://x.com/sirokuma1023)
     - [事務所](https://x.com/annotakahiro24)
 - [公式YouTube](https://www.youtube.com/@shumicode)
 - [公式Instagram](https://www.instagram.com/annotakahiro2024)
@@ -79,7 +79,7 @@
 東京都の政策北村たかゆきのマニフェストについて、直した方がいいところや追加した方がいいと思うことについて議論します。
 
 - イシューを立てる方はこちら
-    - [GitHub issues](https://github.com/takahiroanno/election2024/issues)
+    - [GitHub issues](https://github.com/sirokuma1023/election2024/issues)
 - 新しいイシューの立て方は[こちら](/docs/manual_issue.md#new_issue)
 - イシューへのコメントの仕方は[こちら](/docs/manual_issue.md#comment_issue)
 
@@ -87,7 +87,7 @@
 北村たかゆきのマニフェストに対して、具体的に変更提案します。
 
 - 変更提案はこちら
-    - [GitHub マニフェストページ](https://github.com/takahiroanno2024/election2024/tree/main/docs/manifest)
+    - [GitHub マニフェストページ](https://github.com/sirokuma1023/election2024/tree/main/docs/manifest)
 - 変更提案の仕方は[こちら](/docs/manual_pull_request.md)
 
 ### 変更提案の反映について
