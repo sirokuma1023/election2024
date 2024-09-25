@@ -30,7 +30,7 @@
 
 現在のマニフェストはこちらから確認できます。
 
-1. [若者に選ばれるまち/多様性あふれるまち](/docs/manifest/diversity.md)
+1. [若者に選ばれるまち/多様性あふれるまち](/manifest/diversity.md)
 2. [公民連携による教育/子どもを育てたいまちへ](/docs/manifest/education.md)
 3. [関市を支える経済の発展](/docs/manifest/economy.md)
 4. [将来も住み続けたい福祉医療防災の充実](/docs/manifest/care.md)
