@@ -41,7 +41,7 @@
 [議会から見る関市の数字](/election2024/manifest/numbers/)
 
 ### 関市議会での活動
-[関市議会での活動](/delection2024/manifest/parliament)
+[関市議会での活動](/election2024/manifest/parliament/)
 
 
 ### 初めての方へ
