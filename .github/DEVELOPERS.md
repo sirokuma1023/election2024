@@ -60,3 +60,6 @@ MkDocsのバグにより、リストのインデントはスペース4つでな�
 ## デプロイ/Publish
 
 <!-- todo: GitHub Pagesでのデプロイ方法を記載する -->
+
+急ぐ場合は、コマンドする
+mkdocs gh-deploy　
