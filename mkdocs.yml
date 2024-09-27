@@ -15,6 +15,7 @@ nav:
     - '5. 新規参入とIT技術を活用したバスの利便性向上': 'manifest/traffic.md'
     - '6. その他': 'manifest/others.md'
   - '議会から見る関市の数字': 'manifest/numbers.md'
+  - '関市議会での活動': 'manifest/parliament.md'
   - '貢献したいあなたへ': 'contribution.md'
   - 'Issueマニュアル': 'manual_issue.md'
   - 'Pull Requestマニュアル': 'manual_pull_request.md'
