@@ -1,6 +1,4 @@
 # 公民連携による教育/子どもを育てたいまちへ
-![education_png](./../images/manifest_slides/education_v1.0.png)
-
 ## 公民連携による教育/子どもを育てたいまちへ
 
 - ### 現状認識

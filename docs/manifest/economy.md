@@ -1,7 +1,4 @@
 # 関市を支える経済の発展
-
-![economy_png](./../images/manifest_slides/economy_v1.0.png)
-
 ## 関市を支える経済の発展
 
 - ### 現状認識

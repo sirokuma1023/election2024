@@ -1,7 +1,4 @@
 # 若者に選ばれるまち/多様性あふれるまち
-
-![administration_png](./../images/manifest_slides/administration_v1.0.png)
-
 ## 若者に選ばれるまち/多様性あふれるまち
 
 - ### 現状認識
