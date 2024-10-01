@@ -27,7 +27,7 @@
 - [公式facebook](https://www.facebook.com/kitamuratakayuki.seki)
 
 ### 北村たかゆき50の質問
-[北村たかゆき50の質問](election2024/docs/qa.md)
+[北村たかゆき50の質問](qa.md)
 
 ### マニフェスト
 
