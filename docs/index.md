@@ -26,7 +26,7 @@
 - [公式Instagram](https://www.instagram.com/kitamura_takayuki/)
 - [公式facebook](https://www.facebook.com/kitamuratakayuki.seki)
 
-### 北村たかゆき50の質問
+### 北村たかゆきへの質問
 [北村たかゆき50の質問](qa.md)
 
 ### マニフェスト
