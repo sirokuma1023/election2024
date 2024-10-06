@@ -1,6 +1,6 @@
 # 新規参入とIT技術を活用したバスの利便性向上
 
-![democracy_png](./../images/manifest_slides/democracy_v1.0.png)
+
 
 
 
