@@ -40,8 +40,8 @@
 5. [新規参入とIT技術を活用したバスの利便性向上](/election2024/manifest/traffic)
 6. [その他政策や頂いたご質問に対するご回答](/election2024/manifest/others)
 
-### 議会から見る関市の数字
-[議会から見る関市の数字](/election2024/manifest/numbers/)
+### 関市の数字と関市の概要
+[関市の数字と関市の概要](/election2024/manifest/numbers/)
 
 ### 関市議会での活動
 [関市議会での活動](/election2024/manifest/parliament/)
